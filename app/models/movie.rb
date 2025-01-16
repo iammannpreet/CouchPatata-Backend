@@ -1,7 +1,7 @@
 # app/models/movie.rb
 class Movie
     include Mongoid::Document
-  
+   
     field :tmdb_id, type: Integer
     field :title, type: String
     field :overview, type: String
