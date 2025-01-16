@@ -21,3 +21,5 @@ gem 'debug'
 gem 'rspec-rails', group: [:development, :test]
 
 gem 'bootsnap', require: false
+
+gem 'fuzzy_match'

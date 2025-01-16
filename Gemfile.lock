@@ -94,6 +94,7 @@ GEM
       railties (>= 6.1)
     drb (2.2.1)
     erubi (1.13.1)
+    fuzzy_match (2.1.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
     httparty (0.22.0)
@@ -235,6 +236,7 @@ DEPENDENCIES
   bootsnap
   debug
   dotenv-rails
+  fuzzy_match
   httparty
   mongo (~> 2.21)
   mongoid (~> 9.0)
