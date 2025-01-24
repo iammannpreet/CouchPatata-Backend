@@ -23,3 +23,4 @@ gem 'rspec-rails', group: [:development, :test]
 gem 'bootsnap', require: false
 
 gem 'fuzzy_match'
+gem 'rack-cors', require: 'rack/cors'
